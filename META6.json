@@ -1,0 +1,35 @@
+{
+  "production": false,
+  "perl": "6.c",
+  "test-depends": [
+    
+  ],
+  "resources": [
+    
+  ],
+  "support": {
+    "source": null
+  },
+  "name": "app-pipe2http",
+  "description": "",
+  "license": "Artistic-2.0",
+  "build-depends": [
+    
+  ],
+  "auth": "github:gfldex",
+  "version": "0.0.1",
+  "depends": [
+    "Test::META"
+  ],
+  "provides": {
+    
+  },
+  "meta-version": "0",
+  "tags": [
+    
+  ],
+  "authors": [
+    "Wenzel P. P. Peppmeyer <wenzel.peppmeyer@gmx.de>"
+  ],
+  "source-url": "https://github.com/gfldex/perl6-app-pipe2http.git"
+}
